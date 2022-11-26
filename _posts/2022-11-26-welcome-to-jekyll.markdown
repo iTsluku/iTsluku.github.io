@@ -12,6 +12,4 @@ def test()->None:
   pass
 {% endhighlight %}
 
-Check out the [kdtools docs][kdtools-docs] for more info on how to get the most out of kdtools.
-
-[kdtools-docs](https://github.com/iTsluku/kdtools)
+Check out the [docs](https://github.com/iTsluku/kdtools) for more info on how to get the most out of kdtools.
